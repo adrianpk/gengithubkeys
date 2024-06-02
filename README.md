@@ -38,6 +38,15 @@ Run the `gengithubkeys` command. You will be prompted to enter your GitHub email
 gengithubkeys
 ```
 
+## Notes
+
+Please note that this application is still under development.
+The feature for uploading keys to GitHub is not yet implemented. 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 Follow the prompts to generate and upload your SSH key.
 
 ## License
